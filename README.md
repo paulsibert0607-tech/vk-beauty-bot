@@ -19,6 +19,21 @@
 - запоминает запись и **уведомляет администратора**;
 - на вопросы вне меню отвечает **ИИ-агент** — весело, но по делу.
 
+## Как это выглядит (скриншоты)
+
+<div align="center">
+  <p><b>Приветствие</b></p>
+  <img src="screenshots/01_privet.png" width="280" alt="Приветствие бота">
+  <p><b>Меню категорий</b></p>
+  <img src="screenshots/02_menu.png" width="280" alt="Меню категорий">
+  <p><b>Выбор услуги</b></p>
+  <img src="screenshots/03_usluga.png" width="280" alt="Выбор услуги">
+  <p><b>Выбор мастера</b></p>
+  <img src="screenshots/04_master.png" width="280" alt="Выбор мастера">
+  <p><b>Вопрос ИИ-агенту</b></p>
+  <img src="screenshots/05_gde.png" width="280" alt="Ответ ИИ-агента">
+</div>
+
 ## Возможности
 
 | Функция | Описание |
